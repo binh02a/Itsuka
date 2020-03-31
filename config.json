@@ -1,0 +1,8 @@
+{
+  "data_world": {
+    "oauth2_url": "https://data.world/oauth/authorize",
+    "data_url": "https://api.data.world/v0/datasets/markmarkoh/coronavirus-data",
+    "file_prefix": "https://api.data.world/v0/file_download/markmarkoh/coronavirus-data/",
+    "token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJwcm9kLXVzZXItY2xpZW50OmJpbm5nb3UiLCJpc3MiOiJhZ2VudDpiaW5uZ291OjpkMGI4YTc0Ny04MTNlLTQ0OGMtYmQwNS1lODA3ODVkNTM0MzkiLCJpYXQiOjE1ODU2MjgzOTEsInJvbGUiOlsidXNlcl9hcGlfYWRtaW4iLCJ1c2VyX2FwaV9yZWFkIiwidXNlcl9hcGlfd3JpdGUiXSwiZ2VuZXJhbC1wdXJwb3NlIjp0cnVlLCJzYW1sIjp7fX0.H-CqJXGQhjnaKwAisZGrCoQKXlAlCY8eRVb_2qZ3jJ1wbtcvyDUCc-u4aaAMDgsP0YolW-N5WsJgaXyhtIvPdw"
+  }
+}
