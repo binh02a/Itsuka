@@ -17,3 +17,10 @@ Print out the requirements to a file, and install the relevant dependencies::
 Running lunalight::
 
   python -m lunalight
+
+Dependencies
+==========
+
+- numpy (arrays)
+- matploylib (pyplot)
+- pandas (dataframes)
